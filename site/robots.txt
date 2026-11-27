@@ -1,2 +1,4 @@
 User-agent: *
-Disallow: /
+Allow: /
+
+Sitemap: https://web-servicio-psicologos.pages.dev/sitemap.xml
